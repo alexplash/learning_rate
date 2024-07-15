@@ -4,4 +4,5 @@
 </p>
 <p float="center">
   <img src="images/image3.png" width="48%" />
+  <img src="images/lr_architecture.png" width="48%" />
 </p>
