@@ -16,6 +16,6 @@ Learning Rate supports a wide range of common machine learning tasks such as reg
 
 The tech stack includes:
   1) Flutter: Dart for frontend development
-  2) Flask: Python backend server for API management and ML operations
-  3) Scikit-Learn for machine learning algorithm implementation
-  4) Google Cloud Platform for hosting and computational resources
+  2) Flask: Python backend server for ML operations & GCP connection
+  3) Scikit-Learn for ML algorithm implementation
+  4) Google Cloud Platform for model & data storage via data lake
