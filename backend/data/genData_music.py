@@ -10,7 +10,7 @@ df = pd.DataFrame({
     'TikTok Likes': np.random.randint(1000, 500000, size = num_rows),
     'Apple Music Playlist Count': np.random.randint(1, 1000, size = num_rows),
     'Amazon Playlist Count': np.random.randint(1, 1000, size = num_rows),
-    'Explicit Track': np.random.choice([0, 1], size = num_rows)
+    'Explicit Track': np.random.choice(['Yes', 'No'], size = num_rows)
 })
 
 df.to_csv('explicit_music.csv', index = False)
