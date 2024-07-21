@@ -7,6 +7,9 @@
   <img src="images/lr_architecture.png" width="48%" />
 </p>
 
+## Video Demo
+https://www.youtube.com/watch?v=RZhz-Um5Djc
+
 # Learning Rate
 Learning Rate is an AutoML platform designed to democratize machine learning, allowing users to easily upload their own data and quickly create, train, and deploy machine learning models with just a few clicks. This user-friendly interface simplifies the complex process of data science, making it accessible to non-experts seeking to leverage the power of ML for data analysis and inference.
 
