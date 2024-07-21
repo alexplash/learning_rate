@@ -7,7 +7,7 @@
   <img src="images/lr_architecture.png" width="48%" />
 </p>
 
-## Video Demo
+## Video Demo:
 https://www.youtube.com/watch?v=RZhz-Um5Djc
 
 # Learning Rate
